@@ -59,4 +59,4 @@ jobs:
           app-name: 'CTRR-backShop'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4150866E78ED4D7C89F8A37E2924470A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3F6DD80FAF35447193798A59E3B731FF }}
